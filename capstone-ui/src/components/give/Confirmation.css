@@ -1,0 +1,28 @@
+.confirmation{
+    font-family:Arima Madurai;
+    font-style: normal;
+    display: flex;
+    flex: wrap;
+    width: 50%;
+}
+
+.h1{
+    font-family:Arima Madurai;
+    font-style: normal;
+    display: flex;
+    flex: wrap;
+    width: 50%;
+}
+.centerW{
+    font-family:Arima Madurai;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.words{
+    font-family:Arima Madurai;
+    font-style: normal;
+    font-weight: bold;
+    display: flex;
+    flex: wrap;
+}
