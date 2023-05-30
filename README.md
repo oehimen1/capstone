@@ -1,8 +1,9 @@
-# capstone
-Project Name
-[Project Name] is a capstone project developed by [Your Name] as part of [Program Name/Course Name]. It is a [brief description of the project].
+# Hira Beauty
+
+Hira Beauty is a capstone project developed by Obehi Ehimen,Sofia Riley, and Kelsey Hetherington, as part of Codepath's SITE program. It is a website that offers users a valuable platform to donate or recycle their makeup and skincare products, actively promoting a culture of responsible consumption. With the ultimate goal of driving positive change, our website aims to play a pivotal role in advancing a more sustainable future for the beauty industry.
 
 Project Screenshot
+
 
 Table of Contents
 Features
