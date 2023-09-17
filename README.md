@@ -10,25 +10,9 @@
 
 
 ## Table of Contents
-- [Features](#features)
 - [Demo GIFs](#demo-gifs)
+- [Features](#features)
 - [Technologies Used](#technologies-used)
-
-## Features
-### Donate/Recycle:
-  The donate/recycle feature empowers users to make a positive impact by donating or recycling their beauty products. With this feature, users can easily contribute to sustainability efforts and reduce waste within the beauty industry. Users have the flexibility to donate or recycle as many beauty products as they like, ensuring that these items find new homes or are properly disposed of in an eco-friendly manner.
-  In addition, the feature provides users with a convenient way to locate nearby drop-off centers specifically designed for beauty product donations or recycling. By finding the nearest drop-off centers, users can easily contribute to environmental conservation efforts without going out of their way. This feature promotes responsible consumption and allows users to actively participate in creating a greener and more sustainable future for the beauty community.
-
-
-### Education:
-  The education feature enables users to learn about best beauty sustainability practices, such as reusing product containers and reducing water usage in skincare routines. It provides valuable insights and showcases a diverse range of beauty brands dedicated to making the earth more green. Users can access this knowledge to make informed choices and actively contribute to a sustainable beauty industry.
-
-
-### Points:
-The point feature rewards users for their contributions to beauty sustainability by offering them the opportunity to earn free products. After every 20 products they donate or recycle, users receive points that can be redeemed for complimentary beauty items. This incentivization aims to encourage our users to actively participate in our mission of promoting beauty sustainability.
-
-  By earning points through their eco-friendly actions, users are not only making a positive impact on the environment but also gaining tangible benefits for their efforts. This feature fosters a sense of accomplishment and appreciation for our users' dedication to sustainable practices. We believe that by providing these incentives, we can further engage our users and inspire them to continue contributing to the beauty sustainability movement.
-...
 
 ## Demo GIFs
 Below are some demo GIFs showcasing different features of the project:
@@ -56,6 +40,23 @@ Below are some demo GIFs showcasing different features of the project:
 *As the user reviews their recycling and donation efforts, they realize that they have amassed a total of 20 points. With this milestone reached, they are now eligible to redeem their hard-earned points for a complimentary product of their choice.*
 
 <br/>
+
+## Features
+### Donate/Recycle:
+  The donate/recycle feature empowers users to make a positive impact by donating or recycling their beauty products. With this feature, users can easily contribute to sustainability efforts and reduce waste within the beauty industry. Users have the flexibility to donate or recycle as many beauty products as they like, ensuring that these items find new homes or are properly disposed of in an eco-friendly manner.
+  In addition, the feature provides users with a convenient way to locate nearby drop-off centers specifically designed for beauty product donations or recycling. By finding the nearest drop-off centers, users can easily contribute to environmental conservation efforts without going out of their way. This feature promotes responsible consumption and allows users to actively participate in creating a greener and more sustainable future for the beauty community.
+
+
+### Education:
+  The education feature enables users to learn about best beauty sustainability practices, such as reusing product containers and reducing water usage in skincare routines. It provides valuable insights and showcases a diverse range of beauty brands dedicated to making the earth more green. Users can access this knowledge to make informed choices and actively contribute to a sustainable beauty industry.
+
+
+### Points:
+The point feature rewards users for their contributions to beauty sustainability by offering them the opportunity to earn free products. After every 20 products they donate or recycle, users receive points that can be redeemed for complimentary beauty items. This incentivization aims to encourage our users to actively participate in our mission of promoting beauty sustainability.
+
+  By earning points through their eco-friendly actions, users are not only making a positive impact on the environment but also gaining tangible benefits for their efforts. This feature fosters a sense of accomplishment and appreciation for our users' dedication to sustainable practices. We believe that by providing these incentives, we can further engage our users and inspire them to continue contributing to the beauty sustainability movement.
+...
+
 
 ## Technologies Used
 - PostgreSQL
